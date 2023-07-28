@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @AstroProgramerAyush
+- 👀 I’m interested in making apps...
+- 🌱 I’m currently learning java phyton and c...
+- 📫 How to reach me by typing @AstroProgramerAyush...
+
+<!---
+AstroProgramerAyush/AstroProgramerAyush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
